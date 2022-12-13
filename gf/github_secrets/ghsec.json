@@ -1,0 +1,5 @@
+{
+    "flags": "-PhiHanrEo",
+    "patterns": ["github.*['|\"][0-9a-zA-Z]{35,40}['|\"]",
+        "(?i)github(.{0,20})?(?-i)['\"][0-9a-zA-Z]{35,40}"]
+}
